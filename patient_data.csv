@@ -1,0 +1,201 @@
+Patient ID,Age,Sex,Symptoms,Treatment Progress,Overall Health,Arthritis Type
+1,81,M,"pain, stiffness, fatigue",75% reduction in pain,Fair,Rheumatoid Arthritis
+2,30,F,"stiffness, swelling",50% reduction in pain,Fair,Rheumatoid Arthritis
+3,47,M,"stiffness, swelling",25% reduction in pain,Fair,Rheumatoid Arthritis
+4,74,M,"pain, fatigue, swelling",75% reduction in pain,Fair,Rheumatoid Arthritis
+5,30,M,"stiffness, swelling",25% reduction in pain,Fair,Osteoarthritis
+6,64,F,"stiffness, swelling",60% reduction in pain,Good,Osteoarthritis
+7,42,F,"pain, fatigue, swelling",75% reduction in pain,Good,Osteoarthritis
+8,92,F,"stiffness, swelling",60% reduction in pain,Good,Osteoarthritis
+9,53,M,"pain, swelling, fatigue",75% reduction in pain,Good,Osteoarthritis
+10,28,F,"pain, stiffness, swelling",50% reduction in pain,Good,Rheumatoid Arthritis
+11,50,M,"pain, stiffness, swelling",No improvement,Fair,Rheumatoid Arthritis
+12,21,F,"pain, stiffness, fatigue",30% reduction in pain,Good,Rheumatoid Arthritis
+13,83,M,"pain, fatigue, swelling",75% reduction in pain,Good,Osteoarthritis
+14,65,F,"pain, swelling, fatigue",No improvement,Poor,Rheumatoid Arthritis
+15,49,M,"pain, fatigue, swelling",No improvement,Fair,Osteoarthritis
+16,21,M,"pain, swelling, fatigue",80% reduction in pain,Good,Rheumatoid Arthritis
+17,67,M,"pain, fatigue, swelling",25% reduction in pain,Poor,Rheumatoid Arthritis
+18,18,F,"pain, stiffness, fatigue",No improvement,Poor,Osteoarthritis
+19,92,M,"pain, fatigue, swelling",No improvement,Fair,Rheumatoid Arthritis
+20,35,M,"pain, stiffness, swelling",80% reduction in pain,Fair,Rheumatoid Arthritis
+21,35,M,"pain, fatigue, swelling",30% reduction in pain,Good,Rheumatoid Arthritis
+22,99,F,"pain, fatigue, swelling",80% reduction in pain,Poor,Osteoarthritis
+23,47,M,"pain, stiffness, swelling",No improvement,Poor,Rheumatoid Arthritis
+24,47,M,"stiffness, swelling",60% reduction in pain,Poor,Rheumatoid Arthritis
+25,84,M,"pain, stiffness, swelling",50% reduction in pain,Good,Rheumatoid Arthritis
+26,95,M,"pain, fatigue, swelling",No improvement,Good,Rheumatoid Arthritis
+27,36,F,"pain, stiffness, swelling",25% reduction in pain,Fair,Osteoarthritis
+28,19,M,"pain, stiffness, swelling",75% reduction in pain,Poor,Rheumatoid Arthritis
+29,21,F,"pain, fatigue, swelling",60% reduction in pain,Fair,Rheumatoid Arthritis
+30,42,M,"pain, swelling, fatigue",75% reduction in pain,Poor,Osteoarthritis
+31,66,M,"pain, fatigue, swelling",50% reduction in pain,Poor,Osteoarthritis
+32,60,M,"stiffness, swelling",No improvement,Poor,Rheumatoid Arthritis
+33,80,F,"pain, swelling, fatigue",60% reduction in pain,Good,Osteoarthritis
+34,92,F,"pain, swelling, fatigue",75% reduction in pain,Fair,Osteoarthritis
+35,63,M,"pain, stiffness, swelling",30% reduction in pain,Good,Rheumatoid Arthritis
+36,37,F,"pain, stiffness, swelling",80% reduction in pain,Poor,Osteoarthritis
+37,48,F,"pain, swelling, fatigue",60% reduction in pain,Poor,Rheumatoid Arthritis
+38,30,M,"stiffness, swelling",60% reduction in pain,Poor,Osteoarthritis
+39,32,F,"pain, stiffness, fatigue",60% reduction in pain,Fair,Osteoarthritis
+40,37,M,"pain, stiffness, fatigue",25% reduction in pain,Good,Osteoarthritis
+41,39,F,"pain, fatigue, swelling",No improvement,Good,Osteoarthritis
+42,74,M,"pain, swelling, fatigue",80% reduction in pain,Poor,Rheumatoid Arthritis
+43,78,M,"pain, fatigue, swelling",60% reduction in pain,Fair,Rheumatoid Arthritis
+44,22,F,"pain, swelling, fatigue",75% reduction in pain,Fair,Rheumatoid Arthritis
+45,56,F,"pain, stiffness, swelling",25% reduction in pain,Poor,Rheumatoid Arthritis
+46,96,M,"pain, fatigue, swelling",75% reduction in pain,Fair,Rheumatoid Arthritis
+47,64,F,"pain, stiffness, swelling",No improvement,Good,Rheumatoid Arthritis
+48,33,F,"pain, stiffness, fatigue",50% reduction in pain,Good,Rheumatoid Arthritis
+49,94,F,"pain, stiffness, swelling",25% reduction in pain,Fair,Osteoarthritis
+50,24,F,"pain, fatigue, swelling",No improvement,Good,Rheumatoid Arthritis
+51,68,M,"pain, fatigue, swelling",50% reduction in pain,Good,Rheumatoid Arthritis
+52,28,F,"stiffness, swelling",80% reduction in pain,Good,Osteoarthritis
+53,80,F,"pain, stiffness, fatigue",50% reduction in pain,Poor,Osteoarthritis
+54,90,M,"pain, stiffness, fatigue",50% reduction in pain,Good,Rheumatoid Arthritis
+55,53,M,"pain, fatigue, swelling",80% reduction in pain,Poor,Rheumatoid Arthritis
+56,63,F,"pain, stiffness, fatigue",30% reduction in pain,Good,Rheumatoid Arthritis
+57,22,M,"pain, stiffness, fatigue",No improvement,Good,Rheumatoid Arthritis
+58,75,M,"pain, stiffness, fatigue",50% reduction in pain,Good,Rheumatoid Arthritis
+59,36,F,"pain, fatigue, swelling",60% reduction in pain,Good,Osteoarthritis
+60,75,M,"pain, swelling, fatigue",25% reduction in pain,Fair,Osteoarthritis
+61,44,F,"stiffness, swelling",No improvement,Good,Osteoarthritis
+62,50,F,"pain, fatigue, swelling",No improvement,Fair,Osteoarthritis
+63,82,F,"pain, stiffness, swelling",No improvement,Good,Osteoarthritis
+64,88,F,"pain, stiffness, fatigue",80% reduction in pain,Good,Rheumatoid Arthritis
+65,87,M,"pain, stiffness, fatigue",30% reduction in pain,Good,Rheumatoid Arthritis
+66,98,F,"stiffness, swelling",25% reduction in pain,Poor,Rheumatoid Arthritis
+67,63,M,"pain, fatigue, swelling",60% reduction in pain,Good,Osteoarthritis
+68,68,F,"pain, stiffness, fatigue",80% reduction in pain,Fair,Rheumatoid Arthritis
+69,57,F,"pain, stiffness, fatigue",50% reduction in pain,Good,Osteoarthritis
+70,77,M,"pain, stiffness, fatigue",75% reduction in pain,Good,Rheumatoid Arthritis
+71,60,M,"pain, swelling, fatigue",25% reduction in pain,Poor,Osteoarthritis
+72,64,M,"pain, fatigue, swelling",No improvement,Poor,Osteoarthritis
+73,18,F,"stiffness, swelling",60% reduction in pain,Poor,Rheumatoid Arthritis
+74,63,F,"pain, stiffness, swelling",80% reduction in pain,Good,Osteoarthritis
+75,96,F,"pain, stiffness, swelling",80% reduction in pain,Poor,Rheumatoid Arthritis
+76,25,F,"pain, stiffness, swelling",25% reduction in pain,Fair,Rheumatoid Arthritis
+77,60,F,"pain, stiffness, swelling",30% reduction in pain,Good,Rheumatoid Arthritis
+78,75,M,"pain, stiffness, swelling",25% reduction in pain,Good,Rheumatoid Arthritis
+79,38,F,"pain, stiffness, swelling",25% reduction in pain,Poor,Osteoarthritis
+80,29,M,"pain, swelling, fatigue",80% reduction in pain,Poor,Rheumatoid Arthritis
+81,67,F,"pain, stiffness, swelling",50% reduction in pain,Fair,Rheumatoid Arthritis
+82,96,M,"stiffness, swelling",50% reduction in pain,Good,Osteoarthritis
+83,90,F,"pain, stiffness, swelling",60% reduction in pain,Fair,Rheumatoid Arthritis
+84,19,F,"stiffness, swelling",60% reduction in pain,Good,Osteoarthritis
+85,55,M,"pain, stiffness, swelling",75% reduction in pain,Good,Rheumatoid Arthritis
+86,83,F,"pain, stiffness, swelling",30% reduction in pain,Poor,Osteoarthritis
+87,98,F,"pain, swelling, fatigue",60% reduction in pain,Good,Osteoarthritis
+88,64,M,"pain, fatigue, swelling",75% reduction in pain,Poor,Osteoarthritis
+89,47,F,"pain, swelling, fatigue",50% reduction in pain,Good,Osteoarthritis
+90,87,F,"pain, stiffness, fatigue",No improvement,Fair,Rheumatoid Arthritis
+91,66,F,"pain, stiffness, swelling",No improvement,Fair,Rheumatoid Arthritis
+92,50,F,"pain, fatigue, swelling",60% reduction in pain,Poor,Rheumatoid Arthritis
+93,36,M,"pain, swelling, fatigue",No improvement,Poor,Osteoarthritis
+94,19,M,"pain, stiffness, fatigue",30% reduction in pain,Poor,Rheumatoid Arthritis
+95,86,F,"stiffness, swelling",75% reduction in pain,Good,Rheumatoid Arthritis
+96,43,F,"pain, fatigue, swelling",80% reduction in pain,Good,Rheumatoid Arthritis
+97,48,F,"pain, stiffness, swelling",80% reduction in pain,Poor,Rheumatoid Arthritis
+98,82,F,"pain, stiffness, swelling",75% reduction in pain,Fair,Rheumatoid Arthritis
+99,93,M,"pain, fatigue, swelling",30% reduction in pain,Fair,Rheumatoid Arthritis
+100,57,M,"pain, fatigue, swelling",50% reduction in pain,Poor,Rheumatoid Arthritis
+101,87,F,"pain, stiffness, fatigue",30% reduction in pain,Good,Osteoarthritis
+102,91,M,"pain, fatigue, swelling",No improvement,Poor,Rheumatoid Arthritis
+103,78,M,"pain, swelling, fatigue",60% reduction in pain,Good,Osteoarthritis
+104,39,F,"stiffness, swelling",No improvement,Poor,Osteoarthritis
+105,57,F,"pain, stiffness, swelling",25% reduction in pain,Fair,Rheumatoid Arthritis
+106,71,F,"pain, swelling, fatigue",60% reduction in pain,Fair,Osteoarthritis
+107,46,M,"pain, stiffness, fatigue",80% reduction in pain,Poor,Osteoarthritis
+108,52,F,"pain, stiffness, fatigue",No improvement,Fair,Rheumatoid Arthritis
+109,61,F,"pain, fatigue, swelling",75% reduction in pain,Fair,Osteoarthritis
+110,37,F,"pain, swelling, fatigue",50% reduction in pain,Poor,Osteoarthritis
+111,66,M,"pain, swelling, fatigue",30% reduction in pain,Poor,Rheumatoid Arthritis
+112,19,F,"pain, stiffness, fatigue",80% reduction in pain,Good,Rheumatoid Arthritis
+113,42,M,"pain, stiffness, swelling",80% reduction in pain,Poor,Rheumatoid Arthritis
+114,68,M,"pain, stiffness, swelling",80% reduction in pain,Poor,Osteoarthritis
+115,34,F,"pain, swelling, fatigue",25% reduction in pain,Poor,Rheumatoid Arthritis
+116,33,M,"pain, fatigue, swelling",25% reduction in pain,Fair,Rheumatoid Arthritis
+117,34,F,"pain, stiffness, fatigue",30% reduction in pain,Fair,Rheumatoid Arthritis
+118,19,M,"pain, stiffness, fatigue",No improvement,Fair,Osteoarthritis
+119,26,M,"pain, swelling, fatigue",50% reduction in pain,Fair,Osteoarthritis
+120,45,F,"stiffness, swelling",75% reduction in pain,Good,Rheumatoid Arthritis
+121,22,F,"pain, stiffness, fatigue",60% reduction in pain,Good,Rheumatoid Arthritis
+122,66,M,"stiffness, swelling",50% reduction in pain,Fair,Rheumatoid Arthritis
+123,43,M,"pain, stiffness, swelling",80% reduction in pain,Good,Rheumatoid Arthritis
+124,86,F,"pain, stiffness, swelling",75% reduction in pain,Good,Osteoarthritis
+125,36,F,"pain, stiffness, fatigue",60% reduction in pain,Fair,Rheumatoid Arthritis
+126,37,M,"pain, stiffness, fatigue",60% reduction in pain,Poor,Osteoarthritis
+127,80,M,"pain, swelling, fatigue",25% reduction in pain,Good,Rheumatoid Arthritis
+128,76,M,"pain, stiffness, swelling",60% reduction in pain,Fair,Osteoarthritis
+129,86,F,"pain, fatigue, swelling",80% reduction in pain,Poor,Osteoarthritis
+130,27,M,"pain, swelling, fatigue",50% reduction in pain,Poor,Rheumatoid Arthritis
+131,62,F,"pain, stiffness, swelling",No improvement,Fair,Osteoarthritis
+132,44,M,"pain, swelling, fatigue",25% reduction in pain,Poor,Rheumatoid Arthritis
+133,20,F,"pain, fatigue, swelling",25% reduction in pain,Fair,Osteoarthritis
+134,72,F,"pain, stiffness, swelling",80% reduction in pain,Good,Rheumatoid Arthritis
+135,21,F,"stiffness, swelling",No improvement,Fair,Osteoarthritis
+136,76,F,"stiffness, swelling",25% reduction in pain,Poor,Osteoarthritis
+137,51,F,"pain, stiffness, fatigue",60% reduction in pain,Poor,Osteoarthritis
+138,84,M,"pain, stiffness, fatigue",30% reduction in pain,Good,Osteoarthritis
+139,61,F,"pain, stiffness, swelling",50% reduction in pain,Good,Rheumatoid Arthritis
+140,63,M,"pain, stiffness, swelling",25% reduction in pain,Good,Rheumatoid Arthritis
+141,40,M,"stiffness, swelling",25% reduction in pain,Fair,Osteoarthritis
+142,53,F,"pain, stiffness, fatigue",30% reduction in pain,Poor,Rheumatoid Arthritis
+143,85,M,"pain, fatigue, swelling",30% reduction in pain,Fair,Osteoarthritis
+144,59,F,"pain, fatigue, swelling",30% reduction in pain,Fair,Osteoarthritis
+145,99,M,"pain, fatigue, swelling",50% reduction in pain,Poor,Rheumatoid Arthritis
+146,84,F,"pain, swelling, fatigue",No improvement,Poor,Rheumatoid Arthritis
+147,48,F,"pain, stiffness, fatigue",50% reduction in pain,Good,Rheumatoid Arthritis
+148,70,M,"stiffness, swelling",30% reduction in pain,Fair,Rheumatoid Arthritis
+149,68,M,"stiffness, swelling",60% reduction in pain,Fair,Rheumatoid Arthritis
+150,50,F,"pain, stiffness, fatigue",50% reduction in pain,Poor,Rheumatoid Arthritis
+151,70,M,"stiffness, swelling",60% reduction in pain,Good,Rheumatoid Arthritis
+152,33,M,"stiffness, swelling",30% reduction in pain,Good,Osteoarthritis
+153,60,M,"stiffness, swelling",30% reduction in pain,Good,Rheumatoid Arthritis
+154,36,M,"pain, fatigue, swelling",80% reduction in pain,Fair,Rheumatoid Arthritis
+155,26,F,"pain, fatigue, swelling",50% reduction in pain,Good,Osteoarthritis
+156,44,M,"stiffness, swelling",30% reduction in pain,Poor,Osteoarthritis
+157,50,F,"pain, fatigue, swelling",50% reduction in pain,Poor,Rheumatoid Arthritis
+158,25,F,"stiffness, swelling",25% reduction in pain,Poor,Rheumatoid Arthritis
+159,89,F,"pain, swelling, fatigue",50% reduction in pain,Poor,Osteoarthritis
+160,40,F,"pain, stiffness, fatigue",No improvement,Poor,Osteoarthritis
+161,62,F,"pain, swelling, fatigue",30% reduction in pain,Fair,Rheumatoid Arthritis
+162,62,M,"pain, swelling, fatigue",No improvement,Good,Rheumatoid Arthritis
+163,37,M,"pain, swelling, fatigue",80% reduction in pain,Fair,Osteoarthritis
+164,90,F,"pain, swelling, fatigue",50% reduction in pain,Good,Rheumatoid Arthritis
+165,22,M,"pain, fatigue, swelling",60% reduction in pain,Poor,Rheumatoid Arthritis
+166,63,F,"pain, stiffness, fatigue",60% reduction in pain,Poor,Osteoarthritis
+167,90,F,"pain, swelling, fatigue",25% reduction in pain,Poor,Osteoarthritis
+168,22,F,"pain, swelling, fatigue",50% reduction in pain,Poor,Rheumatoid Arthritis
+169,42,F,"pain, stiffness, fatigue",80% reduction in pain,Good,Osteoarthritis
+170,23,F,"pain, stiffness, fatigue",No improvement,Good,Rheumatoid Arthritis
+171,82,F,"pain, swelling, fatigue",80% reduction in pain,Fair,Rheumatoid Arthritis
+172,78,M,"pain, stiffness, fatigue",30% reduction in pain,Fair,Osteoarthritis
+173,19,M,"pain, swelling, fatigue",25% reduction in pain,Poor,Osteoarthritis
+174,41,F,"pain, stiffness, swelling",60% reduction in pain,Good,Rheumatoid Arthritis
+175,32,M,"pain, swelling, fatigue",25% reduction in pain,Poor,Osteoarthritis
+176,77,M,"pain, swelling, fatigue",60% reduction in pain,Good,Rheumatoid Arthritis
+177,69,M,"pain, stiffness, fatigue",25% reduction in pain,Poor,Osteoarthritis
+178,80,M,"pain, fatigue, swelling",No improvement,Fair,Rheumatoid Arthritis
+179,28,F,"pain, stiffness, fatigue",25% reduction in pain,Fair,Rheumatoid Arthritis
+180,42,M,"stiffness, swelling",25% reduction in pain,Fair,Rheumatoid Arthritis
+181,29,M,"pain, stiffness, swelling",No improvement,Poor,Osteoarthritis
+182,49,F,"pain, swelling, fatigue",80% reduction in pain,Poor,Rheumatoid Arthritis
+183,99,M,"pain, fatigue, swelling",25% reduction in pain,Good,Rheumatoid Arthritis
+184,29,M,"pain, stiffness, fatigue",No improvement,Good,Rheumatoid Arthritis
+185,65,F,"stiffness, swelling",No improvement,Fair,Osteoarthritis
+186,25,M,"pain, stiffness, fatigue",50% reduction in pain,Good,Rheumatoid Arthritis
+187,35,M,"pain, swelling, fatigue",80% reduction in pain,Poor,Rheumatoid Arthritis
+188,19,F,"pain, stiffness, fatigue",75% reduction in pain,Good,Osteoarthritis
+189,22,F,"stiffness, swelling",50% reduction in pain,Poor,Rheumatoid Arthritis
+190,74,M,"pain, fatigue, swelling",25% reduction in pain,Poor,Osteoarthritis
+191,52,M,"stiffness, swelling",25% reduction in pain,Good,Rheumatoid Arthritis
+192,39,M,"pain, swelling, fatigue",30% reduction in pain,Good,Rheumatoid Arthritis
+193,25,F,"pain, swelling, fatigue",No improvement,Good,Rheumatoid Arthritis
+194,19,M,"pain, stiffness, swelling",No improvement,Poor,Osteoarthritis
+195,37,M,"pain, stiffness, swelling",80% reduction in pain,Good,Rheumatoid Arthritis
+196,95,F,"stiffness, swelling",60% reduction in pain,Good,Osteoarthritis
+197,50,F,"pain, fatigue, swelling",75% reduction in pain,Fair,Osteoarthritis
+198,35,F,"pain, fatigue, swelling",80% reduction in pain,Good,Osteoarthritis
+199,92,M,"pain, swelling, fatigue",No improvement,Good,Rheumatoid Arthritis
+200,80,F,"pain, stiffness, fatigue",25% reduction in pain,Good,Rheumatoid Arthritis
