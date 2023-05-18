@@ -7,11 +7,11 @@ tambil_image = 'tambil.png'
 
 
 st.set_page_config(
-    page_title="AyuAriya",
+    page_title="AyuAIra",
     page_icon="👨‍⚕️",
     
 )
-st.write("# Welcome to AyuAriya! 👨‍⚕️")
+st.write("# Welcome to AyuAIra! 👨‍⚕️")
 st.markdown(
     """
     Your Intelligent Companion for Holistic Arthritis Management
